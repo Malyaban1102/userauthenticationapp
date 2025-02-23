@@ -7,7 +7,7 @@ A RESTful API service built using Spring Boot provides endpoints for Registratio
   + User registration with email, password (encrypted using BCrypt), first name, last name
   + User login using email and password and a bearer token will get generated.
 * User Task management:
-  + Create, update and delete users.
+  + get all users, get user by id, update user and delete user.
 
 # Getting Started:
 ## Prerequisites:
