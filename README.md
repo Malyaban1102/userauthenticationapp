@@ -32,3 +32,7 @@ A RESTful API service built using Spring Boot provides endpoints for Registratio
 ## Running the application:
 Run the application using Gradle:
 ./gradlew bootrun
+
+## For Swagger UI:
+http://localhost:8081/swagger-ui/index.html
+
